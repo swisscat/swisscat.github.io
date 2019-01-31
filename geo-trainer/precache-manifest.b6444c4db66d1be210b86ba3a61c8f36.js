@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "e68091d44be9bd415b7d",
-    "url": "/geo-trainer/static/js/main.e68091d4.chunk.js"
+    "revision": "d04e1386b8c47ad6d5ee",
+    "url": "/geo-trainer/static/js/main.d04e1386.chunk.js"
   },
   {
     "revision": "4a707210739462aed1f9",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/geo-trainer/static/js/runtime~main.31b228f3.js"
   },
   {
-    "revision": "486b4942a62ef30e194bc65b4221f3f0",
+    "revision": "eb90e51e304971752fb405c33caf072a",
     "url": "/geo-trainer/index.html"
   }
 ];
